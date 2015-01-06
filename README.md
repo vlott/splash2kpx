@@ -1,6 +1,6 @@
 Welcome to Splash2Kpx
 
-This utility is licensed under the Apache 2.0 license and will simply
+This utility is licensed under the Apache 2.0 license. It has been used to convert the author's SplashID database (exported to .csv format to KeePassX format). It worked well for this, but use at your own risk. The author makes no claims of any other kind.
 
 Prerequisites:
 
